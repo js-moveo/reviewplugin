@@ -1,5 +1,5 @@
 [Coding_Exercise.pdf](https://github.com/js-moveo/reviewplugin/files/9878752/Coding_Exercise.pdf)
-# reviewplugin
+# reviewsplugin
 
 The goal of this exercise is for you to create a Wordpress plugin which will fetch an array of reviews from an external REST API and display them in a nice list to the user.
 The API returns data in JSON format (see attached file for a sample response).
